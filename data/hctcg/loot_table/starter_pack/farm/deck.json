@@ -1,0 +1,71 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bundle",
+          "functions": [
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "deck"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Hermitcraft",
+                "extra": [
+                  {
+                    "text": " TC",
+                    "color": "dark_aqua",
+                    "underlined": false
+                  },
+                  {
+                    "text": "G",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Starter Deck",
+                    "color": "dark_red",
+                    "underlined": false
+                  }
+                ],
+                "color": "dark_gray",
+                "bold": true,
+                "italic": false,
+                "underlined": false
+              }
+            },
+            {
+              "function": "minecraft:set_contents",
+              "components": {},
+              "component": "minecraft:bundle_contents",
+              "entries": [
+                {
+                  "type": "minecraft:loot_table",
+                  "value": "hctcg:starter_pack/farm/hermits"
+                },
+                {
+                  "type": "minecraft:loot_table",
+                  "value": "hctcg:starter_pack/effects"
+                },
+                {
+                  "type": "minecraft:loot_table",
+                  "value": "hctcg:starter_pack/farm/items"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

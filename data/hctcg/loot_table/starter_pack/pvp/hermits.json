@@ -1,0 +1,499 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "rolls": 10,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100086
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "false_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "False",
+                "extra": [
+                  {
+                    "text": " 250",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Pvp",
+                    "color": "aqua",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[PvP×1] Queen fo Hearts - 50",
+                  "italic": false
+                },
+                {
+                  "text": "[PvP×1, Any×1] Eagle eye - 70",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "xbcrafted_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "xB",
+                "extra": [
+                  {
+                    "text": " 270",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Pvp",
+                    "color": "aqua",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[PvP×1] Aww Yeah - 50",
+                  "italic": false
+                },
+                {
+                  "text": "[PvP×2] Blam! - 80",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "human_cleo_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Human Cleo",
+                "extra": [
+                  {
+                    "text": " 290",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Pvp",
+                    "color": "aqua",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[PvP×1] Humanity - 50",
+                  "italic": false
+                },
+                {
+                  "text": "[PvP×2] Betrayed - 70",
+                  "italic": false
+                },
+                {
+                  "text": "Betrayed:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "Flip a coin twice",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "If both are heads, your opponent must attack one of their own AFK Hermits on their next turn. Your opponent must have the necessary item cards attached to execute an attack.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100137
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "zombiecleo_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Cleo",
+                "extra": [
+                  {
+                    "text": " 290",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Pvp",
+                    "color": "aqua",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[PvP×1] Dismissed - 40",
+                  "italic": false
+                },
+                {
+                  "text": "[PvP×3] Puppetry - 00",
+                  "italic": false
+                },
+                {
+                  "text": "Puppetry:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "Use an attack from any of your AFK Hermits.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100148
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "helsknight_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Helsknight",
+                "extra": [
+                  {
+                    "text": " 270",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Pvp",
+                    "color": "aqua",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Any×1] Pitiful - 40",
+                  "italic": false
+                },
+                {
+                  "text": "[PvP×3] Trap Hole - 100",
+                  "italic": false
+                },
+                {
+                  "text": "Trap Hole:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "If your opponent uses a single use effect card on their next turn, flip a coin.",
+                  "italic": false
+                },
+                {
+                  "text": "If heads, you take that card after its effect is applied and add it to your hand.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100133
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "welsknight_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Wels",
+                "extra": [
+                  {
+                    "text": " 280",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Pvp",
+                    "color": "aqua",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Any×1] Knight's Blade - 40",
+                  "italic": false
+                },
+                {
+                  "text": "[PvP×3] Vengeance - 100",
+                  "italic": false
+                },
+                {
+                  "text": "Vengeance:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "If this Hermit's HP is orange (190~100), do an additional 20hp damage.",
+                  "italic": false
+                },
+                {
+                  "text": "If this Hermit's HP is red (90 or less), do an additional 40hp damage.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100138
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "etho_hermit_ultra_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Etho",
+                "extra": [
+                  {
+                    "text": " 250",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Ultra Rare★",
+                    "color": "aqua",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Pvp",
+                    "color": "aqua",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Anyx1] Ladders - 30",
+                  "italic": false
+                },
+                {
+                  "text": "[Anyx2] Slab - 70",
+                  "italic": false
+                },
+                {
+                  "text": "Slab:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "Flip a coin 3 times.Do an additional 20hp damage for every heads.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

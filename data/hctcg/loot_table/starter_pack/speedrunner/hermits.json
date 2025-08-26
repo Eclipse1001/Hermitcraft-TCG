@@ -1,0 +1,289 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "rolls": 10,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "beetlejhost_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Beetlejhost",
+                "extra": [
+                  {
+                    "text": " 290",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Speedrunner",
+                    "color": "yellow",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Spd×1] Expand - 50",
+                  "italic": false
+                },
+                {
+                  "text": "[Spd×3] Chroma - 100",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100152
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "jingler_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Jingler",
+                "extra": [
+                  {
+                    "text": " 280",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Speedrunner",
+                    "color": "yellow",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Spd×1] Jingled - 50",
+                  "italic": false
+                },
+                {
+                  "text": "[Spd×2, Any×1] Deception - 80",
+                  "italic": false
+                },
+                {
+                  "text": "Deception:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "Flip a coin.",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "If heads, your opponent must choose a card to discard from their hand.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100122
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "jevin_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Jevin",
+                "extra": [
+                  {
+                    "text": " 300",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Speedrunner",
+                    "color": "yellow",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Any×1] Your Boi - 30",
+                  "italic": false
+                },
+                {
+                  "text": "[Spd×2, Any×1] Peace Out - 90",
+                  "italic": false
+                },
+                {
+                  "text": "Peace Out:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "After your attack, your opponent must choose an AFK Hermit to set as their active Hermit, unless they have no AFK Hermits.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100113
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "cubfan_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Cub",
+                "extra": [
+                  {
+                    "text": " 260",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Speedrunner",
+                    "color": "yellow",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Any×1] Dash - 40",
+                  "italic": false
+                },
+                {
+                  "text": "[Spd×3] Let's Go - 100",
+                  "italic": false
+                },
+                {
+                  "text": "Let's Go:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "After attack, you can choose to go AFK.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

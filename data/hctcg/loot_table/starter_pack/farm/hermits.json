@@ -1,0 +1,509 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "rolls": 10,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100090
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "impulse_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Impulse",
+                "extra": [
+                  {
+                    "text": " 270",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Farn",
+                    "color": "green",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Any×1] Shovel Shuffle - 30",
+                  "italic": false
+                },
+                {
+                  "text": "[Frm×1, Any×1] iAttack - 70",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100105
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "xisuma_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Xisuma",
+                "extra": [
+                  {
+                    "text": " 300",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Farn",
+                    "color": "green",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Frm×1] Oh My Days - 60",
+                  "italic": false
+                },
+                {
+                  "text": "[Frm×2, Any×1] Jeez - 90",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100091
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "iskall_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Iskall",
+                "extra": [
+                  {
+                    "text": " 280",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Farn",
+                    "color": "green",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Frm×1] Of Doom - 50",
+                  "italic": false
+                },
+                {
+                  "text": "[Frm×2] Bird Poop - 80",
+                  "italic": false
+                },
+                {
+                  "text": "Bird Poop:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "Attack damage doubles versus Builder types.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "potatoboy_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Potato Boy",
+                "extra": [
+                  {
+                    "text": " 300",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Farn",
+                    "color": "green",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Frm×1] Peace & Love - 30",
+                  "italic": false
+                },
+                {
+                  "text": "[Frm×2, Any×1] Volcarbo - 90",
+                  "italic": false
+                },
+                {
+                  "text": "Peace & Love:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "Heal all Hermits that are adjacent to your active Hermit 40hp.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100130
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "tango_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Tango",
+                "extra": [
+                  {
+                    "text": " 290",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Farn",
+                    "color": "green",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Frm×1] Skadoodle- 50",
+                  "italic": false
+                },
+                {
+                  "text": "[Frm×3] Extra Flee - 100",
+                  "italic": false
+                },
+                {
+                  "text": "Extra Flee:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "After your attack, both players must choose an AFK Hermit to set as their active Hermit, unless they have no AFK Hermits.",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "Your opponent chooses their active Hermit first.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100114
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "docm_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "DocM77",
+                "extra": [
+                  {
+                    "text": " 280",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Farn",
+                    "color": "green",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Any×1] Shadow Tech - 40",
+                  "italic": false
+                },
+                {
+                  "text": "[Frm×2] World Eater - 80",
+                  "italic": false
+                },
+                {
+                  "text": "World Eater:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "Flip a coin.",
+                  "italic": false
+                },
+                {
+                  "text": "If heads, attack damage doubles.",
+                  "italic": false
+                },
+                {
+                  "text": "If tails, attack damage is halved.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100123
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "joehills_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Joe",
+                "extra": [
+                  {
+                    "text": " 270",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Farn",
+                    "color": "green",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Frm×1] Grow Hills - 50",
+                  "italic": false
+                },
+                {
+                  "text": "[Frm×2, Any×1] Time Skip - 90",
+                  "italic": false
+                },
+                {
+                  "text": "Time Skip:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "Flip a coin.",
+                  "italic": false
+                },
+                {
+                  "text": "If heads, your opponent skips their next turn. Time Skip can not be used consecutively if successful.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

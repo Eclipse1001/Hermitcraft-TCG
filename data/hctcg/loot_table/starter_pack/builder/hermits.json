@@ -1,0 +1,819 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "rolls": 10,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100088
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "grian_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Grian",
+                "extra": [
+                  {
+                    "text": " 300",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Builder",
+                    "color": "#835432",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Bld×1] Copper Golem - 60",
+                  "italic": false
+                },
+                {
+                  "text": "[Bld×1, Any×1] Waffle - 70",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100099
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "stress_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Stress",
+                "extra": [
+                  {
+                    "text": " 280",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Builder",
+                    "color": "#835432",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Bld×1] Ello - 50",
+                  "italic": false
+                },
+                {
+                  "text": "[Bld×2] Geezer - 80",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100082
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "bdubs_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Bdubs",
+                "extra": [
+                  {
+                    "text": " 260",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Builder",
+                    "color": "#835432",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Bld×1] Gradient - 60",
+                  "italic": false
+                },
+                {
+                  "text": "[Bld×2] Prettystone - 80",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100107
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "zombiecleo_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Cleo",
+                "extra": [
+                  {
+                    "text": " 260",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Builder",
+                    "color": "#835432",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Bld×1] It's Fine - 60",
+                  "italic": false
+                },
+                {
+                  "text": "[Bld×2] Revenge - 80",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100094
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "keralis_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Keralis",
+                "extra": [
+                  {
+                    "text": " 270",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Builder",
+                    "color": "#835432",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Any×1] Looky Looky - 40",
+                  "italic": false
+                },
+                {
+                  "text": "[Bld×2, Any×1] NoNoNoNo - 90",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100096
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "pearl_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Pearl",
+                "extra": [
+                  {
+                    "text": " 270",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Builder",
+                    "color": "#835432",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Any×1] 5 AM - 40",
+                  "italic": false
+                },
+                {
+                  "text": "[Bld×2, Any×1] What's This? - 90",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100103
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "welsknight_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Wels",
+                "extra": [
+                  {
+                    "text": " 300",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Builder",
+                    "color": "#835432",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Any×1] Chivalry - 40",
+                  "italic": false
+                },
+                {
+                  "text": "[Bld×2, Any×1] Judgement - 90",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100087
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "gem_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Gem",
+                "extra": [
+                  {
+                    "text": " 300",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Builder",
+                    "color": "#835432",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Bld×1] Cottagecore - 60",
+                  "italic": false
+                },
+                {
+                  "text": "[Bld×3] Be Great - 100",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100128
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "scar_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Scar",
+                "extra": [
+                  {
+                    "text": " 270",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Builder",
+                    "color": "#835432",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Bld×1] Scarred For Life - 50",
+                  "italic": false
+                },
+                {
+                  "text": "[Bld×1, Any×1] Deathloop - 70",
+                  "italic": false
+                },
+                {
+                  "text": "Deathloop:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "If this Hermit is knocked out before the start of your next turn, they are revived with 50hp.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100116
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "false_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "False",
+                "extra": [
+                  {
+                    "text": " 250",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Builder",
+                    "color": "#835432",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Bld×1] High Noon - 60",
+                  "italic": false
+                },
+                {
+                  "text": "[Bld×1, Any×1] Supremacy - 70",
+                  "italic": false
+                },
+                {
+                  "text": "Supremacy:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "Flip a coin.",
+                  "italic": false
+                },
+                {
+                  "text": "If heads, heal this Hermit 40hp.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100132
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "vintagebeef_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Beef",
+                "extra": [
+                  {
+                    "text": " 290",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Builder",
+                    "color": "#835432",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Any×1] Pojk - 40",
+                  "italic": false
+                },
+                {
+                  "text": "[Bld×2] Beefy Tunes - 80",
+                  "italic": false
+                },
+                {
+                  "text": "Beefy Tunes:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "Flip a coin.",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "If heads, all status effects are removed from your active and AFK Hermits.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100127
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "rendog_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Ren",
+                "extra": [
+                  {
+                    "text": " 250",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Builder",
+                    "color": "#835432",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Bld×1] Comin' At Ya - 50",
+                  "italic": false
+                },
+                {
+                  "text": "[Bld×3] Role Play - 00",
+                  "italic": false
+                },
+                {
+                  "text": "Role Play:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "Use an attack from any of your opponent's Hermits.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

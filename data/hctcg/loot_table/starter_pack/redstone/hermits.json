@@ -1,0 +1,572 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "rolls": 10,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100084
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "docm_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "DocM77",
+                "extra": [
+                  {
+                    "text": " 260",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Redstone",
+                    "color": "red",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Any×1] Hive Mind - 40",
+                  "italic": false
+                },
+                {
+                  "text": "[Red×1, Any×1] G.O.A.T. - 70",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100106
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "zedaph_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Zedaph",
+                "extra": [
+                  {
+                    "text": " 250",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Redstone",
+                    "color": "red",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Red×1] For Science - 50",
+                  "italic": false
+                },
+                {
+                  "text": "[Red×1, Any×1] Hadjah! - 70",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100100
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "tango_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Tango",
+                "extra": [
+                  {
+                    "text": " 300",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Redstone",
+                    "color": "red",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Red×1] Thing-ificator - 60",
+                  "italic": false
+                },
+                {
+                  "text": "[Red×1, Any×1] Hat Trick - 70",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100095
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "mumbo_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Mumbo",
+                "extra": [
+                  {
+                    "text": " 270",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Redstone",
+                    "color": "red",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Red×1] Chuffed to Bits - 50",
+                  "italic": false
+                },
+                {
+                  "text": "[Red×2] Spoon - 80",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100112
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "bbdubs_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Boomer Bdubs",
+                "extra": [
+                  {
+                    "text": " 290",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Redstone",
+                    "color": "red",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Any×1] Boom - 30",
+                  "italic": false
+                },
+                {
+                  "text": "[Red×2] Watch This - 80",
+                  "italic": false
+                },
+                {
+                  "text": "Watch This:",
+                  "italic": false
+                },
+                {
+                  "text": "Flip a coin as many times as you want.",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "Do an additional 20hp damage for every heads, but if tails is flipped, this attack deals 0hp total damage.",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "When this attack is used with Fortune, only the first coinflip will be affected.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100135
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "xisuma_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Xisuma",
+                "extra": [
+                  {
+                    "text": " 280",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Redstone",
+                    "color": "red",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Red×1] Goodness Me - 60",
+                  "italic": false
+                },
+                {
+                  "text": "[Red×2] Cup of Tea - 80",
+                  "italic": false
+                },
+                {
+                  "text": "Cup of Tea:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "Flip a coin.",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "If heads, poison your opponent's active Hermit.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100115
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "etho_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Etho",
+                "extra": [
+                  {
+                    "text": " 280",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Redstone",
+                    "color": "red",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Red×1] Oh Snappers - 50",
+                  "italic": false
+                },
+                {
+                  "text": "[Red×2] Blue Fire - 80",
+                  "italic": false
+                },
+                {
+                  "text": "Blue Fire:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "Flip a coin.",
+                  "italic": false
+                },
+                {
+                  "text": "If heads, burn your opponent's active Hermit.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100120
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "impulse_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Impulse",
+                "extra": [
+                  {
+                    "text": " 250",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Redstone",
+                    "color": "red",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Red×1] Bop - 50",
+                  "italic": false
+                },
+                {
+                  "text": "[Red×1, Any×1] Boomer - 70",
+                  "italic": false
+                },
+                {
+                  "text": "Boomer:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "For each of your AFK Bdubs or Tangos on the game board, do an additional 40hp damage, up to a maximum of 80hp additional damage.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

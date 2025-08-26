@@ -1,0 +1,572 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "rolls": 10,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100093
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "joehills_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Joe",
+                "extra": [
+                  {
+                    "text": " 270",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Explorer",
+                    "color": "#678ABE",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Any×1] Howdy - 30",
+                  "italic": false
+                },
+                {
+                  "text": "[Exp×2, Any×1] Haiku - 90",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100092
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "jevin_hermit_common"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Jevin",
+                "extra": [
+                  {
+                    "text": " 250",
+                    "color": "white",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Explorer",
+                    "color": "#678ABE",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Exp×1] Got'Em - 60",
+                  "italic": false
+                },
+                {
+                  "text": "[Exp×2, Any×1] Jevination - 90",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100134
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "xbcrafted_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "xB",
+                "extra": [
+                  {
+                    "text": " 270",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Explorer",
+                    "color": "#678ABE",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Exp×1] Giggle - 50",
+                  "italic": false
+                },
+                {
+                  "text": "[Exp×1, Any×1] Noice! - 70",
+                  "italic": false
+                },
+                {
+                  "text": "Noice!:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "Any effect card attached to your opponent's active Hermit is ignored during this turn.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100155
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "renbob_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Renbob",
+                "extra": [
+                  {
+                    "text": " 300",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Explorer",
+                    "color": "#678ABE",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Any×1] Loose Change - 40",
+                  "italic": false
+                },
+                {
+                  "text": "[Exp×2] Hyperspace - 80",
+                  "italic": false
+                },
+                {
+                  "text": "Hyperspace:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "Attack the Hermit directly opposite your active Hermit on the game board.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100149
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "hotguy_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Hotguy",
+                "extra": [
+                  {
+                    "text": " 280",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Explorer",
+                    "color": "#678ABE",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Exp×1] Velocité - 50",
+                  "italic": false
+                },
+                {
+                  "text": "[Exp×2] Hawkeye - 80",
+                  "italic": false
+                },
+                {
+                  "text": "Hawkeye:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "When used with a Bow or Crossbow effect card, Bow or Crossbow damage doubles.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100151
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "iskallman_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "IskallMAN",
+                "extra": [
+                  {
+                    "text": " 260",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Explorer",
+                    "color": "#678ABE",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Any×1] Iskall...maaan - 40",
+                  "italic": false
+                },
+                {
+                  "text": "[Exp×2] Good Deed - 50",
+                  "italic": false
+                },
+                {
+                  "text": "Good Deed:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "You can choose to remove 50hp from this Hermit and give it to any AFK Hermit on the game board.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100136
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "zedaph_hermit_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Zedaph",
+                "extra": [
+                  {
+                    "text": " 290",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Explorer",
+                    "color": "#678ABE",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Exp×1] Sheep Stare - 50",
+                  "italic": false
+                },
+                {
+                  "text": "[Exp×2] Get Dangled - 80",
+                  "italic": false
+                },
+                {
+                  "text": "Sheep Stare:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "Flip a coin.",
+                  "italic": false
+                },
+                {
+                  "text": "If heads, on your opponent's next turn, flip a coin.",
+                  "italic": false
+                },
+                {
+                  "text": "If heads, your opponent's active Hermit attacks themselves.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "vintagebeef_hermit_ultra_rare"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Beef",
+                "extra": [
+                  {
+                    "text": " 280",
+                    "underlined": false
+                  },
+                  {
+                    "text": " ★Ultra Rare★",
+                    "color": "aqua",
+                    "underlined": false
+                  },
+                  {
+                    "text": " Explorer",
+                    "color": "#678ABE",
+                    "underlined": false
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false,
+                "underlined": true
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "[Anyx1] Back in Action - 40",
+                  "italic": false
+                },
+                {
+                  "text": "[Expx3] nHo - 100",
+                  "italic": false
+                },
+                {
+                  "text": "nHo:",
+                  "italic": false,
+                  "bold": true
+                },
+                {
+                  "text": "If you have AFK Docm77, Bdubs AND Etho on the game board, attack damage doubles.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

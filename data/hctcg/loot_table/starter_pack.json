@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "hctcg:starter_pack/balanced/deck"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "hctcg:starter_pack/builder/deck"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "hctcg:starter_pack/explorer/deck"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "hctcg:starter_pack/farm/deck"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "hctcg:starter_pack/miner/deck"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "hctcg:starter_pack/prankster/deck"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "hctcg:starter_pack/pvp/deck"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "hctcg:starter_pack/redstone/deck"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "hctcg:starter_pack/speedrunner/deck"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "hctcg:starter_pack/terraform/deck"
+        }
+      ]
+    }
+  ]
+}

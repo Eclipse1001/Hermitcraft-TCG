@@ -1,0 +1,10 @@
+give @s filled_map[map_id=100070,custom_model_data={strings:["health_190"]},custom_name=[{"bold":true,"color":"yellow","italic":false,"text":"190 Health"}]] 1
+give @s filled_map[map_id=100069,custom_model_data={strings:["health_180"]},custom_name=[{"bold":true,"color":"yellow","italic":false,"text":"180 Health"}]] 1
+give @s filled_map[map_id=100068,custom_model_data={strings:["health_170"]},custom_name=[{"bold":true,"color":"yellow","italic":false,"text":"170 Health"}]] 1
+give @s filled_map[map_id=100067,custom_model_data={strings:["health_160"]},custom_name=[{"bold":true,"color":"yellow","italic":false,"text":"160 Health"}]] 1
+give @s filled_map[map_id=100066,custom_model_data={strings:["health_150"]},custom_name=[{"bold":true,"color":"yellow","italic":false,"text":"150 Health"}]] 1
+give @s filled_map[map_id=100065,custom_model_data={strings:["health_140"]},custom_name=[{"bold":true,"color":"yellow","italic":false,"text":"140 Health"}]] 1
+give @s filled_map[map_id=100064,custom_model_data={strings:["health_130"]},custom_name=[{"bold":true,"color":"yellow","italic":false,"text":"130 Health"}]] 1
+give @s filled_map[map_id=100063,custom_model_data={strings:["health_120"]},custom_name=[{"bold":true,"color":"yellow","italic":false,"text":"120 Health"}]] 1
+give @s filled_map[map_id=100062,custom_model_data={strings:["health_110"]},custom_name=[{"bold":true,"color":"yellow","italic":false,"text":"110 Health"}]] 1
+give @s filled_map[map_id=100061,custom_model_data={strings:["health_100"]},custom_name=[{"bold":true,"color":"yellow","italic":false,"text":"100 Health"}]] 1

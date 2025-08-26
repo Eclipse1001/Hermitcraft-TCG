@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
+      "minecraft:bundle"
+    ],
+    [
+      "minecraft:white_dye"
+    ],
+    [
+      "minecraft:cyan_dye"
+    ],
+    [
+      "minecraft:green_dye"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:bundle",
+    "components": {
+      "minecraft:custom_model_data": {
+        "strings": [
+          "deck"
+        ]
+      },
+      "minecraft:custom_name": {
+        "text": "Hermitcraft",
+        "extra": [
+          {
+            "text": " TC",
+            "color": "dark_aqua",
+            "underlined": false
+          },
+          {
+            "text": "G",
+            "color": "dark_green",
+            "underlined": false
+          }
+        ],
+        "color": "dark_gray",
+        "bold": true,
+        "italic": false,
+        "underlined": false
+      }
+    }
+  }
+}

@@ -1,0 +1,3319 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100011
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "command_block_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Command Block",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "The Hermit this card is attached to can use items of any type. Once attached, this card can not be removed from this Hermit.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100023
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "gold_armor_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Gold Armor",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "When the Hermit this card is attached to takes damage, that damage is reduced by up to 10hp each turn.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100018
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "enchanted_book_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Loyalty",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "When the Hermit this card is attached to is knocked out, all attached item cards are returned to your hand.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100033
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "milk_bucket_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Milk Bucket",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Remove poison and bad omen from one of your Hermits.",
+                  "italic": false
+                },
+                {
+                  "text": "If attached, prevents the Hermit this card is attached to from being poisoned."
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100050
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "water_bucket_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Water Bucket",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Remove burn and String from one of your Hermits.",
+                  "italic": false
+                },
+                {
+                  "text": "If attached, prevents the Hermit this card is attached to from being burned."
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100007
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "chainmail_armor_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Chainmail Armor",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Prevents any damage from effect cards and any damage redirected by effect cards to the Hermit this card is attached to.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100049
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "turtle_shell_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Turtle Shell",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Attach to any of your AFK Hermits. On that Hermits first turn after becoming active, any damage done to that Hermit is prevented, and then this card is discarded.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100051
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "wolf_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Wolf",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Attach to your active Hermit.",
+                  "italic": false
+                },
+                {
+                  "text": "If any of your Hermits take damage on your opponent's turn, your opponent's active Hermit takes 20hp damage for each Wolf card you have on the game board.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100002
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "armor_stand_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Armor Stand",
+                "extra": [
+                  {
+                    "text": " ★Ultra Rare★",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Use like a Hermit card with a maximum 50hp.",
+                  "italic": false
+                },
+                {
+                  "text": "You can not attach any cards to this card. While this card is active, you can not attack, or use damaging effect cards.",
+                  "italic": false
+                },
+                {
+                  "text": "If this card is knocked out, it does not count as a knockout.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100004
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "bed_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Bed",
+                "extra": [
+                  {
+                    "text": " ★Ultra Rare★",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Attach to your active Hermit. This Hermit restores all HP, then sleeps for the rest of this turn, and the following two turns, before waking up. Discard after your Hermit wakes up.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100027
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "iron_armor_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Iron Armor",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "When the Hermit this card is attached to takes damage, that damage is reduced by up to 20hp each turn.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100032
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "lightning_rod_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Lightning Rod",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "All damage done to your Hermits on your opponent's turn is taken by the Hermit this card is attached to.",
+                  "italic": false
+                },
+                {
+                  "text": "Discard after use. Only one of these cards can be attached to your Hermits at a time.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100039
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "shield_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Shield",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "When the Hermit this card is attached to takes damage, that damage is reduced by up to 60hp, and then this card is discarded.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100043
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "string_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "String",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Attach to one of your opponent's empty item or effect slots.",
+                  "italic": false
+                },
+                {
+                  "text": "Your opponent can no longer attach cards to that slot.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100018
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "enchanted_book_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Thorns",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "When the Hermit this card is attached to takes damage, your opponent's active Hermit takes 20hp damage.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100047
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "totem_of_undying_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Totem",
+                "extra": [
+                  {
+                    "text": " ★Ultra Rare★",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "If the Hermit this card is attached to is knocked out, they are revived with 10hp.",
+                  "italic": false
+                },
+                {
+                  "text": "Does not count as a knockout. Discard after use."
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100014
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "diamond_armor_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Diamond Armor",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "When the Hermit this card is attached to takes damage, that damage is reduced by up to 30hp each turn.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100018
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "enchanted_book_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Thorns II",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "When the Hermit this card is attached to takes damage, your opponent's active Hermit takes 30hp damage.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100034
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "netherite_armor_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Netherite Armor",
+                "extra": [
+                  {
+                    "text": " ★Ultra Rare★",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "When the Hermit this card is attached to takes damage, that damage is reduced by up to 40hp each turn.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100018
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "enchanted_book_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Thorns III",
+                "extra": [
+                  {
+                    "text": " ★Ultra Rare★",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": " Attach",
+                    "color": "red"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "When the Hermit this card is attached to takes damage, your opponent's active Hermit takes 40hp damage.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100001
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "anvil_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Anvil",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Do 30hp damage to the Hermit directly opposite your active Hermit on the game board, and 10hp damage to each Hermit below it.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100012
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "composter_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Composter",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Discard 2 cards in your hand. Draw 2.",
+                  "italic": false
+                },
+                {
+                  "text": "Can not be used if you do not have 2 cards to discard.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100018
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "enchanted_book_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Curse of Binding",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Your opponent can not make their active Hermit go AFK on their next turn.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100019
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "ender_pearl_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Ender Pearl",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Before your attack, move your active Hermit and any attached cards to any open row on the game board. Your active Hermit also takes 10hp damage.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100020
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "fire_charge_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Fire Charge",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Discard one attached item or effect card from any of your Hermits.",
+                  "italic": false
+                },
+                {
+                  "text": "You can use another single use effect card this turn.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100022
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "flint_and_steel_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Flint & Steel",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Discard your hand. Draw 3 cards.",
+                  "italic": false
+                },
+                {
+                  "text": "Can be used even if you do not have any cards in your hand.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100036
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "pink_potion_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Instant Health",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Heal one of your Hermits 30hp.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100005
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "blue_potion_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Invisibility Potion",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Flip a coin.",
+                  "italic": false
+                },
+                {
+                  "text": "If heads, your opponent's next attack misses. If tails, their attack damage doubles.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100028
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "iron_sword_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Iron Sword",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Do 20hp damage to your opponent's active Hermit.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100018
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "enchanted_book_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Knockback",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "After your attack, your opponent must choose an AFK Hermit to set as their active Hermit, unless they have no AFK Hermits.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100018
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "enchanted_book_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Looting",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Flip a coin.",
+                  "italic": false
+                },
+                {
+                  "text": "If heads, choose one item card attached to your opponent's active Hermit and add it to your hand.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100038
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "piston_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Piston",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Move one of your attached item cards to an adjacent Hermit.",
+                  "italic": false
+                },
+                {
+                  "text": "You can use another single use effect card this turn.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100037
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "pink_splash_potion_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Splash Potion of Healing",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Heal all of your Hermits 20hp.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100003
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "bad_omen_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Bad Omen",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Give your opponent's active Hermit bad omen for their next 3 turns.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100006
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "bow_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Bow",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Do 40hp damage to one of your opponent's AFK Hermits.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100009
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "chorus_fruit_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Chorus Fruit",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "After your attack, choose an AFK Hermit to set as your active Hermit.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100013
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "crossbow_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Crossbow",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Do 20hp damage to up to 3 of your opponent's active or AFK Hermits.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100018
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "enchanted_book_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Curse of Vanishing",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Your opponent must discard any effect card attached to their active Hermit.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100015
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "diamond_sword_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Diamond Sword",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Do 40hp damage to your opponent's active Hermit.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100018
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "enchanted_book_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Efficiency",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Use an attack from your active Hermit without having the necessary item cards attached.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100016
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "egg_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Egg",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "After your attack, choose one of your opponent's AFK Hermits to set as their active Hermit, and then flip a coin.",
+                  "italic": false
+                },
+                {
+                  "text": "If heads, also do 10hp damage to that Hermit.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100018
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "enchanted_book_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Fortune",
+                "extra": [
+                  {
+                    "text": " ★Ultra Rare★",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Any coin flips on this turn are not required, as heads is assumed.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100031
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "lead_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Lead",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Move one of your opponent's attached item cards from their active Hermit to any of their AFK Hermits.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100018
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "enchanted_book_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Mending",
+                "extra": [
+                  {
+                    "text": " ★Ultra Rare★",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Move your active Hermit's attached effect card to any of your AFK Hermits.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100037
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "pink_splash_potion_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Splash Potion of Healing II",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Heal all of your Hermits 30hp.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100042
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "spyglass_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Spyglass",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Look at your opponent's hand, and then flip a coin.",
+                  "italic": false
+                },
+                {
+                  "text": "If heads, choose one card to discard from your opponent's hand.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100048
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "trident_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Trident",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Do 30hp damage to your opponent's active Hermit, and then flip a coin.",
+                  "italic": false
+                },
+                {
+                  "text": "If heads, this card is returned to your hand.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100008
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "chest_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Chest",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Choose one card from your discard pile and return it to your hand.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100017
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "emerald_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Emerald",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Steal or swap the attached effect card of your opponent's active Hermit.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100021
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "fishing_rod_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Fishing Rod",
+                "extra": [
+                  {
+                    "text": " ★Ultra Rare★",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Draw 2 cards.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100024
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "golden_apple_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Golden Apple",
+                "extra": [
+                  {
+                    "text": " ★Ultra Rare★",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Heal one of your AFK Hermits 100hp.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100025
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "golden_axe_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Golden Axe",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Do 40hp damage to your opponent's active Hermit.",
+                  "italic": false
+                },
+                {
+                  "text": "Any effect card attached to your opponent's active Hermit is ignored during this turn.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100036
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "pink_potion_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Instant Health II",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Heal one of your Hermits 60hp.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100029
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "ladder_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Ladder",
+                "extra": [
+                  {
+                    "text": " ★Ultra Rare★",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Before your attack, swap your active Hermit card with one of your adjacent AFK Hermit card.",
+                  "italic": false
+                },
+                {
+                  "text": "All cards attached to both Hermits, including health, remain in place. Your active Hermit remains active after swapping.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100046
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "tnt_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Tnt",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Do 60hp damage to your opponent's active Hermit. Your active Hermit also takes 20hp damage.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100040
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "splash_slowness_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Potion of Slowness",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Your opponent's active Hermit can only use their primary attack on their next turn.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100041
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "splash_weakness_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Potion of Weakness",
+                "extra": [
+                  {
+                    "text": " ■ common ■",
+                    "color": "dark_green"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Your opponent's active Hermit is weak to your active Hermit's type for 3 turns.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100018
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "enchanted_book_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Sweeping Edge",
+                "extra": [
+                  {
+                    "text": " ★Ultra Rare★",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Your opponent must discard any effect cards attached to their active Hermit and any adjacent Hermits.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100030
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "lava_bucket_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Lava Bucket",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Burn your opponent's active Hermit.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100035
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "netherite_sword_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Netherite Sword",
+                "extra": [
+                  {
+                    "text": " ★Ultra Rare★",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Do 60hp damage to your opponent's active Hermit.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100010
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "clock_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Clock",
+                "extra": [
+                  {
+                    "text": " ★Ultra Rare★",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Your opponent skips their next turn.",
+                  "italic": false
+                },
+                {
+                  "text": "This card can not be returned to your hand from your discard pile.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:filled_map",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:map_id": 100044
+              }
+            },
+            {
+              "function": "minecraft:set_custom_model_data",
+              "strings": {
+                "values": [
+                  "target_block_effect"
+                ],
+                "mode": "append"
+              }
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Target Block",
+                "extra": [
+                  {
+                    "text": " ★Rare★",
+                    "color": "gold"
+                  },
+                  {
+                    "text": " Single Use",
+                    "color": "gold"
+                  }
+                ],
+                "color": "white",
+                "bold": true,
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Choose one of your opponent's AFK Hermits to take all damage done during this turn.",
+                  "italic": false
+                }
+              ],
+              "mode": "append",
+              "conditions": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
