@@ -48,38 +48,9 @@
               "function": "minecraft:set_contents",
               "component": "minecraft:bundle_contents",
               "entries": [
-
                 {
                   "type": "minecraft:loot_table",
-                  "value": "hctcg:hermit_pack/any_rare"
-                },
-                {
-                  "type": "minecraft:loot_table",
-                  "value": "hctcg:hermit_pack/any_rare"
-                },
-                {
-                  "type": "minecraft:loot_table",
-                  "value": "hctcg:hermit_pack/item_1x"
-                },
-                {
-                  "type": "minecraft:loot_table",
-                  "value": "hctcg:hermit_pack/item_1x"
-                },
-                {
-                  "type": "minecraft:loot_table",
-                  "value": "hctcg:hermit_pack/effect_common"
-                },
-                {
-                  "type": "minecraft:loot_table",
-                  "value": "hctcg:hermit_pack/effect_common"
-                },
-                {
-                  "type": "minecraft:loot_table",
-                  "value": "hctcg:hermit_pack/hermit_common"
-                },
-                {
-                  "type": "minecraft:loot_table",
-                  "value": "hctcg:hermit_pack/hermit_common"
+                  "value": "hctcg:hermit_pack/roller"
                 }
               ]
             }

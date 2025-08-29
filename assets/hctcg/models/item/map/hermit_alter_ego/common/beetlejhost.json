@@ -1,0 +1,6 @@
+{
+  "parent": "hctcg:item/map/card_generic",
+  "textures": {
+    "front": "hctcg:item/map/hermit_alter_ego/common/beetlejhost"
+  }
+}

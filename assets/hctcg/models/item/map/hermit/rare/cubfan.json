@@ -1,0 +1,6 @@
+{
+  "parent": "hctcg:item/map/card_generic",
+  "textures": {
+    "front": "hctcg:item/map/hermit/rare/cubfan"
+  }
+}
