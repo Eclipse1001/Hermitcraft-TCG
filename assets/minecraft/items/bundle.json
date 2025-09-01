@@ -4,7 +4,7 @@
     "property": "minecraft:custom_model_data",
     "cases": [
       {
-        "when": "deck",
+        "when": "hctcg_deck",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/bundle/deck"

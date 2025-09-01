@@ -4,1200 +4,1200 @@
     "property": "minecraft:custom_model_data",
     "cases": [
       {
-        "when": "tcg_card",
+        "when": "hctcg_card",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/tcg_card"
         }
       },
       {
-        "when": "health_10",
+        "when": "hctcg_health_10",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_10"
         }
       },
       {
-        "when": "health_20",
+        "when": "hctcg_health_20",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_20"
         }
       },
       {
-        "when": "health_30",
+        "when": "hctcg_health_30",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_30"
         }
       },
       {
-        "when": "health_40",
+        "when": "hctcg_health_40",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_40"
         }
       },
       {
-        "when": "health_50",
+        "when": "hctcg_health_50",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_50"
         }
       },
       {
-        "when": "health_60",
+        "when": "hctcg_health_60",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_60"
         }
       },
       {
-        "when": "health_70",
+        "when": "hctcg_health_70",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_70"
         }
       },
       {
-        "when": "health_80",
+        "when": "hctcg_health_80",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_80"
         }
       },
       {
-        "when": "health_90",
+        "when": "hctcg_health_90",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_90"
         }
       },
       {
-        "when": "health_100",
+        "when": "hctcg_health_100",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_100"
         }
       },
       {
-        "when": "health_110",
+        "when": "hctcg_health_110",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_110"
         }
       },
       {
-        "when": "health_120",
+        "when": "hctcg_health_120",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_120"
         }
       },
       {
-        "when": "health_130",
+        "when": "hctcg_health_130",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_130"
         }
       },
       {
-        "when": "health_140",
+        "when": "hctcg_health_140",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_140"
         }
       },
       {
-        "when": "health_150",
+        "when": "hctcg_health_150",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_150"
         }
       },
       {
-        "when": "health_160",
+        "when": "hctcg_health_160",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_160"
         }
       },
       {
-        "when": "health_170",
+        "when": "hctcg_health_170",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_170"
         }
       },
       {
-        "when": "health_180",
+        "when": "hctcg_health_180",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_180"
         }
       },
       {
-        "when": "health_190",
+        "when": "hctcg_health_190",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_190"
         }
       },
       {
-        "when": "health_200",
+        "when": "hctcg_health_200",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_200"
         }
       },
       {
-        "when": "health_210",
+        "when": "hctcg_health_210",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_210"
         }
       },
       {
-        "when": "health_220",
+        "when": "hctcg_health_220",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_220"
         }
       },
       {
-        "when": "health_230",
+        "when": "hctcg_health_230",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_230"
         }
       },
       {
-        "when": "health_240",
+        "when": "hctcg_health_240",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_240"
         }
       },
       {
-        "when": "health_250",
+        "when": "hctcg_health_250",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_250"
         }
       },
       {
-        "when": "health_260",
+        "when": "hctcg_health_260",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_260"
         }
       },
       {
-        "when": "health_270",
+        "when": "hctcg_health_270",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_270"
         }
       },
       {
-        "when": "health_280",
+        "when": "hctcg_health_280",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_280"
         }
       },
       {
-        "when": "health_290",
+        "when": "hctcg_health_290",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_290"
         }
       },
       {
-        "when": "health_300",
+        "when": "hctcg_health_300",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/health/health_300"
         }
       },
       {
-        "when": "item_balanced",
+        "when": "hctcg_item_balanced",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x1/balanced"
         }
       },
       {
-        "when": "item_builder",
+        "when": "hctcg_item_builder",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x1/builder"
         }
       },
       {
-        "when": "item_explorer",
+        "when": "hctcg_item_explorer",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x1/explorer"
         }
       },
       {
-        "when": "item_farm",
+        "when": "hctcg_item_farm",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x1/farm"
         }
       },
       {
-        "when": "item_miner",
+        "when": "hctcg_item_miner",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x1/miner"
         }
       },
       {
-        "when": "item_prankster",
+        "when": "hctcg_item_prankster",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x1/prankster"
         }
       },
       {
-        "when": "item_pvp",
+        "when": "hctcg_item_pvp",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x1/pvp"
         }
       },
       {
-        "when": "item_redstone",
+        "when": "hctcg_item_redstone",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x1/redstone"
         }
       },
       {
-        "when": "item_speedrunner",
+        "when": "hctcg_item_speedrunner",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x1/speedrunner"
         }
       },
       {
-        "when": "item_terraform",
+        "when": "hctcg_item_terraform",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x1/terraform"
         }
       },
       {
-        "when": "item2x_balanced",
+        "when": "hctcg_item2x_balanced",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x2/balanced"
         }
       },
       {
-        "when": "item2x_builder",
+        "when": "hctcg_item2x_builder",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x2/builder"
         }
       },
       {
-        "when": "item2x_explorer",
+        "when": "hctcg_item2x_explorer",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x2/explorer"
         }
       },
       {
-        "when": "item2x_farm",
+        "when": "hctcg_item2x_farm",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x2/farm"
         }
       },
       {
-        "when": "item2x_miner",
+        "when": "hctcg_item2x_miner",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x2/miner"
         }
       },
       {
-        "when": "item2x_prankster",
+        "when": "hctcg_item2x_prankster",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x2/prankster"
         }
       },
       {
-        "when": "item2x_pvp",
+        "when": "hctcg_item2x_pvp",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x2/pvp"
         }
       },
       {
-        "when": "item2x_redstone",
+        "when": "hctcg_item2x_redstone",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x2/redstone"
         }
       },
       {
-        "when": "item2x_speedrunner",
+        "when": "hctcg_item2x_speedrunner",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x2/speedrunner"
         }
       },
       {
-        "when": "item2x_terraform",
+        "when": "hctcg_item2x_terraform",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/item/x2/terraform"
         }
       },
       {
-        "when": "effect_anvil",
+        "when": "hctcg_effect_anvil",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/anvil"
         }
       },
       {
-        "when": "effect_armor_stand",
+        "when": "hctcg_effect_armor_stand",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/armor_stand"
         }
       },
       {
-        "when": "effect_bad_omen",
+        "when": "hctcg_effect_bad_omen",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/bad_omen"
         }
       },
       {
-        "when": "effect_bed",
+        "when": "hctcg_effect_bed",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/bed"
         }
       },
       {
-        "when": "effect_blue_potion",
+        "when": "hctcg_effect_blue_potion",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/blue_potion"
         }
       },
       {
-        "when": "effect_bow",
+        "when": "hctcg_effect_bow",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/bow"
         }
       },
       {
-        "when": "effect_chainmail_armor",
+        "when": "hctcg_effect_chainmail_armor",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/chainmail_armor"
         }
       },
       {
-        "when": "effect_chest",
+        "when": "hctcg_effect_chest",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/chest"
         }
       },
       {
-        "when": "effect_chorus_fruit",
+        "when": "hctcg_effect_chorus_fruit",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/chorus_fruit"
         }
       },
       {
-        "when": "effect_clock",
+        "when": "hctcg_effect_clock",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/clock"
         }
       },
       {
-        "when": "effect_command_block",
+        "when": "hctcg_effect_command_block",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/command_block"
         }
       },
       {
-        "when": "effect_composter",
+        "when": "hctcg_effect_composter",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/composter"
         }
       },
       {
-        "when": "effect_crossbow",
+        "when": "hctcg_effect_crossbow",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/crossbow"
         }
       },
       {
-        "when": "effect_diamond_armor",
+        "when": "hctcg_effect_diamond_armor",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/diamond_armor"
         }
       },
       {
-        "when": "effect_diamond_sword",
+        "when": "hctcg_effect_diamond_sword",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/diamond_sword"
         }
       },
       {
-        "when": "effect_egg",
+        "when": "hctcg_effect_egg",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/egg"
         }
       },
       {
-        "when": "effect_emerald",
+        "when": "hctcg_effect_emerald",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/emerald"
         }
       },
       {
-        "when": "effect_enchanted_book",
+        "when": "hctcg_effect_enchanted_book",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/enchanted_book"
         }
       },
       {
-        "when": "effect_ender_pearl",
+        "when": "hctcg_effect_ender_pearl",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/ender_pearl"
         }
       },
       {
-        "when": "effect_fire_charge",
+        "when": "hctcg_effect_fire_charge",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/fire_charge"
         }
       },
       {
-        "when": "effect_fishing_rod",
+        "when": "hctcg_effect_fishing_rod",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/fishing_rod"
         }
       },
       {
-        "when": "effect_flint_and_steel",
+        "when": "hctcg_effect_flint_and_steel",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/flint_and_steel"
         }
       },
       {
-        "when": "effect_gold_armor",
+        "when": "hctcg_effect_gold_armor",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/gold_armor"
         }
       },
       {
-        "when": "effect_golden_apple",
+        "when": "hctcg_effect_golden_apple",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/golden_apple"
         }
       },
       {
-        "when": "effect_golden_axe",
+        "when": "hctcg_effect_golden_axe",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/golden_axe"
         }
       },
       {
-        "when": "effect_green_splash_potion",
+        "when": "hctcg_effect_green_splash_potion",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/green_splash_potion"
         }
       },
       {
-        "when": "effect_iron_armor",
+        "when": "hctcg_effect_iron_armor",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/iron_armor"
         }
       },
       {
-        "when": "effect_iron_sword",
+        "when": "hctcg_effect_iron_sword",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/iron_sword"
         }
       },
       {
-        "when": "effect_ladder",
+        "when": "hctcg_effect_ladder",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/ladder"
         }
       },
       {
-        "when": "effect_lava_bucket",
+        "when": "hctcg_effect_lava_bucket",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/lava_bucket"
         }
       },
       {
-        "when": "effect_lead",
+        "when": "hctcg_effect_lead",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/lead"
         }
       },
       {
-        "when": "effect_lightning_rod",
+        "when": "hctcg_effect_lightning_rod",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/lightning_rod"
         }
       },
       {
-        "when": "effect_milk_bucket",
+        "when": "hctcg_effect_milk_bucket",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/milk_bucket"
         }
       },
       {
-        "when": "effect_netherite_armor",
+        "when": "hctcg_effect_netherite_armor",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/netherite_armor"
         }
       },
       {
-        "when": "effect_netherite_sword",
+        "when": "hctcg_effect_netherite_sword",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/netherite_sword"
         }
       },
       {
-        "when": "effect_pink_potion",
+        "when": "hctcg_effect_pink_potion",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/pink_potion"
         }
       },
       {
-        "when": "effect_pink_splash_potion",
+        "when": "hctcg_effect_pink_splash_potion",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/pink_splash_potion"
         }
       },
       {
-        "when": "effect_piston",
+        "when": "hctcg_effect_piston",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/piston"
         }
       },
       {
-        "when": "effect_shield",
+        "when": "hctcg_effect_shield",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/shield"
         }
       },
       {
-        "when": "effect_splash_slowness",
+        "when": "hctcg_effect_splash_slowness",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/splash_slowness"
         }
       },
       {
-        "when": "effect_splash_weakness",
+        "when": "hctcg_effect_splash_weakness",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/splash_weakness"
         }
       },
       {
-        "when": "effect_spyglass",
+        "when": "hctcg_effect_spyglass",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/spyglass"
         }
       },
       {
-        "when": "effect_string",
+        "when": "hctcg_effect_string",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/string"
         }
       },
       {
-        "when": "effect_target_block",
+        "when": "hctcg_effect_target_block",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/target_block"
         }
       },
       {
-        "when": "effect_tnt",
+        "when": "hctcg_effect_tnt",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/tnt"
         }
       },
       {
-        "when": "effect_totem_of_undying",
+        "when": "hctcg_effect_totem_of_undying",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/totem_of_undying"
         }
       },
       {
-        "when": "effect_trident",
+        "when": "hctcg_effect_trident",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/trident"
         }
       },
       {
-        "when": "effect_turtle_shell",
+        "when": "hctcg_effect_turtle_shell",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/turtle_shell"
         }
       },
       {
-        "when": "effect_water_bucket",
+        "when": "hctcg_effect_water_bucket",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/water_bucket"
         }
       },
       {
-        "when": "effect_wolf",
+        "when": "hctcg_effect_wolf",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/effect/wolf"
         }
       },
       {
-        "when": "hermit_common_bdubs",
+        "when": "hctcg_hermit_common_bdubs",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/bdubs"
         }
       },
       {
-        "when": "hermit_common_cubfan",
+        "when": "hctcg_hermit_common_cubfan",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/cubfan"
         }
       },
       {
-        "when": "hermit_common_docm",
+        "when": "hctcg_hermit_common_docm",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/docm"
         }
       },
       {
-        "when": "hermit_common_etho",
+        "when": "hctcg_hermit_common_etho",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/etho"
         }
       },
       {
-        "when": "hermit_common_false",
+        "when": "hctcg_hermit_common_false",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/false"
         }
       },
       {
-        "when": "hermit_common_gem",
+        "when": "hctcg_hermit_common_gem",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/gem"
         }
       },
       {
-        "when": "hermit_common_grian",
+        "when": "hctcg_hermit_common_grian",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/grian"
         }
       },
       {
-        "when": "hermit_common_hypno",
+        "when": "hctcg_hermit_common_hypno",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/hypno"
         }
       },
       {
-        "when": "hermit_common_impulse",
+        "when": "hctcg_hermit_common_impulse",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/impulse"
         }
       },
       {
-        "when": "hermit_common_iskall",
+        "when": "hctcg_hermit_common_iskall",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/iskall"
         }
       },
       {
-        "when": "hermit_common_jevin",
+        "when": "hctcg_hermit_common_jevin",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/jevin"
         }
       },
       {
-        "when": "hermit_common_joehills",
+        "when": "hctcg_hermit_common_joehills",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/joehills"
         }
       },
       {
-        "when": "hermit_common_keralis",
+        "when": "hctcg_hermit_common_keralis",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/keralis"
         }
       },
       {
-        "when": "hermit_common_mumbo",
+        "when": "hctcg_hermit_common_mumbo",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/mumbo"
         }
       },
       {
-        "when": "hermit_common_pearl",
+        "when": "hctcg_hermit_common_pearl",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/pearl"
         }
       },
       {
-        "when": "hermit_common_rendog",
+        "when": "hctcg_hermit_common_rendog",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/rendog"
         }
       },
       {
-        "when": "hermit_common_scar",
+        "when": "hctcg_hermit_common_scar",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/scar"
         }
       },
       {
-        "when": "hermit_common_stress",
+        "when": "hctcg_hermit_common_stress",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/stress"
         }
       },
       {
-        "when": "hermit_common_tango",
+        "when": "hctcg_hermit_common_tango",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/tango"
         }
       },
       {
-        "when": "hermit_common_tfc",
+        "when": "hctcg_hermit_common_tfc",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/tfc"
         }
       },
       {
-        "when": "hermit_common_vintagebeef",
+        "when": "hctcg_hermit_common_vintagebeef",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/vintagebeef"
         }
       },
       {
-        "when": "hermit_common_welsknight",
+        "when": "hctcg_hermit_common_welsknight",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/welsknight"
         }
       },
       {
-        "when": "hermit_common_xbcrafted",
+        "when": "hctcg_hermit_common_xbcrafted",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/xbcrafted"
         }
       },
       {
-        "when": "hermit_common_xisuma",
+        "when": "hctcg_hermit_common_xisuma",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/xisuma"
         }
       },
       {
-        "when": "hermit_common_zedaph",
+        "when": "hctcg_hermit_common_zedaph",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/zedaph"
         }
       },
       {
-        "when": "hermit_common_zombiecleo",
+        "when": "hctcg_hermit_common_zombiecleo",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/common/zombiecleo"
         }
       },
       {
-        "when": "hermit_rare_bdubs",
+        "when": "hctcg_hermit_rare_bdubs",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/bdubs"
         }
       },
       {
-        "when": "hermit_rare_cubfan",
+        "when": "hctcg_hermit_rare_cubfan",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/cubfan"
         }
       },
       {
-        "when": "hermit_rare_docm",
+        "when": "hctcg_hermit_rare_docm",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/docm"
         }
       },
       {
-        "when": "hermit_rare_etho",
+        "when": "hctcg_hermit_rare_etho",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/etho"
         }
       },
       {
-        "when": "hermit_rare_false",
+        "when": "hctcg_hermit_rare_false",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/false"
         }
       },
       {
-        "when": "hermit_rare_gem",
+        "when": "hctcg_hermit_rare_gem",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/gem"
         }
       },
       {
-        "when": "hermit_rare_grian",
+        "when": "hctcg_hermit_rare_grian",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/grian"
         }
       },
       {
-        "when": "hermit_rare_hypno",
+        "when": "hctcg_hermit_rare_hypno",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/hypno"
         }
       },
       {
-        "when": "hermit_rare_impulse",
+        "when": "hctcg_hermit_rare_impulse",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/impulse"
         }
       },
       {
-        "when": "hermit_rare_iskall",
+        "when": "hctcg_hermit_rare_iskall",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/iskall"
         }
       },
       {
-        "when": "hermit_rare_jevin",
+        "when": "hctcg_hermit_rare_jevin",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/jevin"
         }
       },
       {
-        "when": "hermit_rare_joehills",
+        "when": "hctcg_hermit_rare_joehills",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/joehills"
         }
       },
       {
-        "when": "hermit_rare_keralis",
+        "when": "hctcg_hermit_rare_keralis",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/keralis"
         }
       },
       {
-        "when": "hermit_rare_mumbo",
+        "when": "hctcg_hermit_rare_mumbo",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/mumbo"
         }
       },
       {
-        "when": "hermit_rare_pearl",
+        "when": "hctcg_hermit_rare_pearl",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/pearl"
         }
       },
       {
-        "when": "hermit_rare_rendog",
+        "when": "hctcg_hermit_rare_rendog",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/rendog"
         }
       },
       {
-        "when": "hermit_rare_scar",
+        "when": "hctcg_hermit_rare_scar",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/scar"
         }
       },
       {
-        "when": "hermit_rare_stress",
+        "when": "hctcg_hermit_rare_stress",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/stress"
         }
       },
       {
-        "when": "hermit_rare_tango",
+        "when": "hctcg_hermit_rare_tango",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/tango"
         }
       },
       {
-        "when": "hermit_rare_tfc",
+        "when": "hctcg_hermit_rare_tfc",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/tfc"
         }
       },
       {
-        "when": "hermit_rare_vintagebeef",
+        "when": "hctcg_hermit_rare_vintagebeef",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/vintagebeef"
         }
       },
       {
-        "when": "hermit_rare_welsknight",
+        "when": "hctcg_hermit_rare_welsknight",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/welsknight"
         }
       },
       {
-        "when": "hermit_rare_xbcrafted",
+        "when": "hctcg_hermit_rare_xbcrafted",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/xbcrafted"
         }
       },
       {
-        "when": "hermit_rare_xisuma",
+        "when": "hctcg_hermit_rare_xisuma",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/xisuma"
         }
       },
       {
-        "when": "hermit_rare_zedaph",
+        "when": "hctcg_hermit_rare_zedaph",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/zedaph"
         }
       },
       {
-        "when": "hermit_rare_zombiecleo",
+        "when": "hctcg_hermit_rare_zombiecleo",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/rare/zombiecleo"
         }
       },
       {
-        "when": "hermit_ultra_rare_etho",
+        "when": "hctcg_hermit_ultra_rare_etho",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/ultra_rare/etho"
         }
       },
       {
-        "when": "hermit_ultra_rare_tfc",
+        "when": "hctcg_hermit_ultra_rare_tfc",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/ultra_rare/tfc"
         }
       },
       {
-        "when": "hermit_ultra_rare_vintagebeef",
+        "when": "hctcg_hermit_ultra_rare_vintagebeef",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/ultra_rare/vintagebeef"
         }
       },
       {
-        "when": "hermit_alter_ego_common_beetlejhost",
+        "when": "hctcg_hermit_ae_common_beetlejhost",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit_alter_ego/common/beetlejhost"
+          "model": "hctcg:item/map/hermit/alter_ego/common/beetlejhost"
         }
       },
       {
-        "when": "hermit_alter_ego_common_evil_jevin",
+        "when": "hctcg_hermit_ae_common_evil_jevin",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit_alter_ego/common/evil_jevin"
+          "model": "hctcg:item/map/hermit/alter_ego/common/evil_jevin"
         }
       },
       {
-        "when": "hermit_alter_ego_common_poultry_man",
+        "when": "hctcg_hermit_ae_common_poultry_man",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit_alter_ego/common/poultry_man"
+          "model": "hctcg:item/map/hermit/alter_ego/common/poultry_man"
         }
       },
       {
-        "when": "hermit_alter_ego_common_princess_gem",
+        "when": "hctcg_hermit_ae_common_princess_gem",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit_alter_ego/common/princess_gem"
+          "model": "hctcg:item/map/hermit/alter_ego/common/princess_gem"
         }
       },
       {
-        "when": "hermit_alter_ego_common_worm_man",
+        "when": "hctcg_hermit_ae_common_worm_man",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit_alter_ego/common/worm_man"
+          "model": "hctcg:item/map/hermit/alter_ego/common/worm_man"
         }
       },
       {
-        "when": "hermit_alter_ego_rare_evil_x",
+        "when": "hctcg_hermit_ae_rare_evil_x",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit_alter_ego/rare/evil_x"
+          "model": "hctcg:item/map/hermit/alter_ego/rare/evil_x"
         }
       },
       {
-        "when": "hermit_alter_ego_rare_goatfather",
+        "when": "hctcg_hermit_ae_rare_goatfather",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit_alter_ego/rare/goatfather"
+          "model": "hctcg:item/map/hermit/alter_ego/rare/goatfather"
         }
       },
       {
-        "when": "hermit_alter_ego_rare_helsknight",
+        "when": "hctcg_hermit_ae_rare_helsknight",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit_alter_ego/rare/helsknight"
+          "model": "hctcg:item/map/hermit/alter_ego/rare/helsknight"
         }
       },
       {
-        "when": "hermit_alter_ego_rare_hotguy",
+        "when": "hctcg_hermit_ae_rare_hotguy",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit_alter_ego/rare/hotguy"
+          "model": "hctcg:item/map/hermit/alter_ego/rare/hotguy"
         }
       },
       {
-        "when": "hermit_alter_ego_rare_human_cleo",
+        "when": "hctcg_hermit_ae_rare_human_cleo",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit_alter_ego/rare/human_cleo"
+          "model": "hctcg:item/map/hermit/alter_ego/rare/human_cleo"
         }
       },
       {
-        "when": "hermit_alter_ego_rare_iskallman",
+        "when": "hctcg_hermit_ae_rare_iskallman",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit_alter_ego/rare/iskallman"
+          "model": "hctcg:item/map/hermit/alter_ego/rare/iskallman"
         }
       },
       {
-        "when": "hermit_alter_ego_rare_jingler",
+        "when": "hctcg_hermit_ae_rare_jingler",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit_alter_ego/rare/jingler"
+          "model": "hctcg:item/map/hermit/alter_ego/rare/jingler"
         }
       },
       {
-        "when": "hermit_alter_ego_rare_llamadad",
+        "when": "hctcg_hermit_ae_rare_llamadad",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit_alter_ego/rare/llamadad"
+          "model": "hctcg:item/map/hermit/alter_ego/rare/llamadad"
         }
       },
       {
-        "when": "hermit_alter_ego_rare_potatoboy",
+        "when": "hctcg_hermit_ae_rare_potatoboy",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit_alter_ego/rare/potatoboy"
+          "model": "hctcg:item/map/hermit/alter_ego/rare/potatoboy"
         }
       },
       {
-        "when": "hermit_alter_ego_rare_renbob",
+        "when": "hctcg_hermit_ae_rare_renbob",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit_alter_ego/rare/renbob"
+          "model": "hctcg:item/map/hermit/alter_ego/rare/renbob"
         }
       }
     ],

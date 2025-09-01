@@ -1,6 +1,6 @@
 {
   "parent": "hctcg:item/map/card_generic",
   "textures": {
-    "front": "hctcg:item/map/hermit/error/grian"
+    "front": "hctcg:item/map/hermit/alter_ego/common/worm_man"
   }
 }

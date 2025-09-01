@@ -1,6 +1,6 @@
 {
   "parent": "hctcg:item/map/card_generic",
   "textures": {
-    "front": "hctcg:item/map/hermit_alter_ego/rare/renbob"
+    "front": "hctcg:item/map/hermit/alter_ego/rare/evil_x"
   }
 }

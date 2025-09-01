@@ -1,6 +1,6 @@
 {
   "parent": "hctcg:item/map/card_generic",
   "textures": {
-    "front": "hctcg:item/map/hermit_alter_ego/common/evil_jevin"
+    "front": "hctcg:item/map/hermit/alter_ego/rare/human_cleo"
   }
 }
