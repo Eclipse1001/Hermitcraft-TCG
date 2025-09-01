@@ -711,388 +711,388 @@
         }
       },
       {
-        "when": "hctcg_hermit_common_bdubs",
+        "when": "hctcg_hermit_default_common_bdubs",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/bdubs"
+          "model": "hctcg:item/map/hermit/default/common/bdubs"
         }
       },
       {
-        "when": "hctcg_hermit_common_cubfan",
+        "when": "hctcg_hermit_default_common_cubfan",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/cubfan"
+          "model": "hctcg:item/map/hermit/default/common/cubfan"
         }
       },
       {
-        "when": "hctcg_hermit_common_docm",
+        "when": "hctcg_hermit_default_common_docm",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/docm"
+          "model": "hctcg:item/map/hermit/default/common/docm"
         }
       },
       {
-        "when": "hctcg_hermit_common_etho",
+        "when": "hctcg_hermit_default_common_etho",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/etho"
+          "model": "hctcg:item/map/hermit/default/common/etho"
         }
       },
       {
-        "when": "hctcg_hermit_common_false",
+        "when": "hctcg_hermit_default_common_false",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/false"
+          "model": "hctcg:item/map/hermit/default/common/false"
         }
       },
       {
-        "when": "hctcg_hermit_common_gem",
+        "when": "hctcg_hermit_default_common_gem",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/gem"
+          "model": "hctcg:item/map/hermit/default/common/gem"
         }
       },
       {
-        "when": "hctcg_hermit_common_grian",
+        "when": "hctcg_hermit_default_common_grian",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/grian"
+          "model": "hctcg:item/map/hermit/default/common/grian"
         }
       },
       {
-        "when": "hctcg_hermit_common_hypno",
+        "when": "hctcg_hermit_default_common_hypno",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/hypno"
+          "model": "hctcg:item/map/hermit/default/common/hypno"
         }
       },
       {
-        "when": "hctcg_hermit_common_impulse",
+        "when": "hctcg_hermit_default_common_impulse",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/impulse"
+          "model": "hctcg:item/map/hermit/default/common/impulse"
         }
       },
       {
-        "when": "hctcg_hermit_common_iskall",
+        "when": "hctcg_hermit_default_common_iskall",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/iskall"
+          "model": "hctcg:item/map/hermit/default/common/iskall"
         }
       },
       {
-        "when": "hctcg_hermit_common_jevin",
+        "when": "hctcg_hermit_default_common_jevin",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/jevin"
+          "model": "hctcg:item/map/hermit/default/common/jevin"
         }
       },
       {
-        "when": "hctcg_hermit_common_joehills",
+        "when": "hctcg_hermit_default_common_joehills",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/joehills"
+          "model": "hctcg:item/map/hermit/default/common/joehills"
         }
       },
       {
-        "when": "hctcg_hermit_common_keralis",
+        "when": "hctcg_hermit_default_common_keralis",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/keralis"
+          "model": "hctcg:item/map/hermit/default/common/keralis"
         }
       },
       {
-        "when": "hctcg_hermit_common_mumbo",
+        "when": "hctcg_hermit_default_common_mumbo",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/mumbo"
+          "model": "hctcg:item/map/hermit/default/common/mumbo"
         }
       },
       {
-        "when": "hctcg_hermit_common_pearl",
+        "when": "hctcg_hermit_default_common_pearl",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/pearl"
+          "model": "hctcg:item/map/hermit/default/common/pearl"
         }
       },
       {
-        "when": "hctcg_hermit_common_rendog",
+        "when": "hctcg_hermit_default_common_rendog",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/rendog"
+          "model": "hctcg:item/map/hermit/default/common/rendog"
         }
       },
       {
-        "when": "hctcg_hermit_common_scar",
+        "when": "hctcg_hermit_default_common_scar",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/scar"
+          "model": "hctcg:item/map/hermit/default/common/scar"
         }
       },
       {
-        "when": "hctcg_hermit_common_stress",
+        "when": "hctcg_hermit_default_common_stress",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/stress"
+          "model": "hctcg:item/map/hermit/default/common/stress"
         }
       },
       {
-        "when": "hctcg_hermit_common_tango",
+        "when": "hctcg_hermit_default_common_tango",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/tango"
+          "model": "hctcg:item/map/hermit/default/common/tango"
         }
       },
       {
-        "when": "hctcg_hermit_common_tfc",
+        "when": "hctcg_hermit_default_common_tfc",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/tfc"
+          "model": "hctcg:item/map/hermit/default/common/tfc"
         }
       },
       {
-        "when": "hctcg_hermit_common_vintagebeef",
+        "when": "hctcg_hermit_default_common_vintagebeef",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/vintagebeef"
+          "model": "hctcg:item/map/hermit/default/common/vintagebeef"
         }
       },
       {
-        "when": "hctcg_hermit_common_welsknight",
+        "when": "hctcg_hermit_default_common_welsknight",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/welsknight"
+          "model": "hctcg:item/map/hermit/default/common/welsknight"
         }
       },
       {
-        "when": "hctcg_hermit_common_xbcrafted",
+        "when": "hctcg_hermit_default_common_xbcrafted",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/xbcrafted"
+          "model": "hctcg:item/map/hermit/default/common/xbcrafted"
         }
       },
       {
-        "when": "hctcg_hermit_common_xisuma",
+        "when": "hctcg_hermit_default_common_xisuma",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/xisuma"
+          "model": "hctcg:item/map/hermit/default/common/xisuma"
         }
       },
       {
-        "when": "hctcg_hermit_common_zedaph",
+        "when": "hctcg_hermit_default_common_zedaph",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/zedaph"
+          "model": "hctcg:item/map/hermit/default/common/zedaph"
         }
       },
       {
-        "when": "hctcg_hermit_common_zombiecleo",
+        "when": "hctcg_hermit_default_common_zombiecleo",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/common/zombiecleo"
+          "model": "hctcg:item/map/hermit/default/common/zombiecleo"
         }
       },
       {
-        "when": "hctcg_hermit_rare_bdubs",
+        "when": "hctcg_hermit_default_rare_bdubs",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/bdubs"
+          "model": "hctcg:item/map/hermit/default/rare/bdubs"
         }
       },
       {
-        "when": "hctcg_hermit_rare_cubfan",
+        "when": "hctcg_hermit_default_rare_cubfan",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/cubfan"
+          "model": "hctcg:item/map/hermit/default/rare/cubfan"
         }
       },
       {
-        "when": "hctcg_hermit_rare_docm",
+        "when": "hctcg_hermit_default_rare_docm",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/docm"
+          "model": "hctcg:item/map/hermit/default/rare/docm"
         }
       },
       {
-        "when": "hctcg_hermit_rare_etho",
+        "when": "hctcg_hermit_default_rare_etho",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/etho"
+          "model": "hctcg:item/map/hermit/default/rare/etho"
         }
       },
       {
-        "when": "hctcg_hermit_rare_false",
+        "when": "hctcg_hermit_default_rare_false",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/false"
+          "model": "hctcg:item/map/hermit/default/rare/false"
         }
       },
       {
-        "when": "hctcg_hermit_rare_gem",
+        "when": "hctcg_hermit_default_rare_gem",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/gem"
+          "model": "hctcg:item/map/hermit/default/rare/gem"
         }
       },
       {
-        "when": "hctcg_hermit_rare_grian",
+        "when": "hctcg_hermit_default_rare_grian",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/grian"
+          "model": "hctcg:item/map/hermit/default/rare/grian"
         }
       },
       {
-        "when": "hctcg_hermit_rare_hypno",
+        "when": "hctcg_hermit_default_rare_hypno",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/hypno"
+          "model": "hctcg:item/map/hermit/default/rare/hypno"
         }
       },
       {
-        "when": "hctcg_hermit_rare_impulse",
+        "when": "hctcg_hermit_default_rare_impulse",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/impulse"
+          "model": "hctcg:item/map/hermit/default/rare/impulse"
         }
       },
       {
-        "when": "hctcg_hermit_rare_iskall",
+        "when": "hctcg_hermit_default_rare_iskall",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/iskall"
+          "model": "hctcg:item/map/hermit/default/rare/iskall"
         }
       },
       {
-        "when": "hctcg_hermit_rare_jevin",
+        "when": "hctcg_hermit_default_rare_jevin",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/jevin"
+          "model": "hctcg:item/map/hermit/default/rare/jevin"
         }
       },
       {
-        "when": "hctcg_hermit_rare_joehills",
+        "when": "hctcg_hermit_default_rare_joehills",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/joehills"
+          "model": "hctcg:item/map/hermit/default/rare/joehills"
         }
       },
       {
-        "when": "hctcg_hermit_rare_keralis",
+        "when": "hctcg_hermit_default_rare_keralis",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/keralis"
+          "model": "hctcg:item/map/hermit/default/rare/keralis"
         }
       },
       {
-        "when": "hctcg_hermit_rare_mumbo",
+        "when": "hctcg_hermit_default_rare_mumbo",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/mumbo"
+          "model": "hctcg:item/map/hermit/default/rare/mumbo"
         }
       },
       {
-        "when": "hctcg_hermit_rare_pearl",
+        "when": "hctcg_hermit_default_rare_pearl",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/pearl"
+          "model": "hctcg:item/map/hermit/default/rare/pearl"
         }
       },
       {
-        "when": "hctcg_hermit_rare_rendog",
+        "when": "hctcg_hermit_default_rare_rendog",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/rendog"
+          "model": "hctcg:item/map/hermit/default/rare/rendog"
         }
       },
       {
-        "when": "hctcg_hermit_rare_scar",
+        "when": "hctcg_hermit_default_rare_scar",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/scar"
+          "model": "hctcg:item/map/hermit/default/rare/scar"
         }
       },
       {
-        "when": "hctcg_hermit_rare_stress",
+        "when": "hctcg_hermit_default_rare_stress",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/stress"
+          "model": "hctcg:item/map/hermit/default/rare/stress"
         }
       },
       {
-        "when": "hctcg_hermit_rare_tango",
+        "when": "hctcg_hermit_default_rare_tango",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/tango"
+          "model": "hctcg:item/map/hermit/default/rare/tango"
         }
       },
       {
-        "when": "hctcg_hermit_rare_tfc",
+        "when": "hctcg_hermit_default_rare_tfc",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/tfc"
+          "model": "hctcg:item/map/hermit/default/rare/tfc"
         }
       },
       {
-        "when": "hctcg_hermit_rare_vintagebeef",
+        "when": "hctcg_hermit_default_rare_vintagebeef",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/vintagebeef"
+          "model": "hctcg:item/map/hermit/default/rare/vintagebeef"
         }
       },
       {
-        "when": "hctcg_hermit_rare_welsknight",
+        "when": "hctcg_hermit_default_rare_welsknight",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/welsknight"
+          "model": "hctcg:item/map/hermit/default/rare/welsknight"
         }
       },
       {
-        "when": "hctcg_hermit_rare_xbcrafted",
+        "when": "hctcg_hermit_default_rare_xbcrafted",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/xbcrafted"
+          "model": "hctcg:item/map/hermit/default/rare/xbcrafted"
         }
       },
       {
-        "when": "hctcg_hermit_rare_xisuma",
+        "when": "hctcg_hermit_default_rare_xisuma",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/xisuma"
+          "model": "hctcg:item/map/hermit/default/rare/xisuma"
         }
       },
       {
-        "when": "hctcg_hermit_rare_zedaph",
+        "when": "hctcg_hermit_default_rare_zedaph",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/zedaph"
+          "model": "hctcg:item/map/hermit/default/rare/zedaph"
         }
       },
       {
-        "when": "hctcg_hermit_rare_zombiecleo",
+        "when": "hctcg_hermit_default_rare_zombiecleo",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/rare/zombiecleo"
+          "model": "hctcg:item/map/hermit/default/rare/zombiecleo"
         }
       },
       {
-        "when": "hctcg_hermit_ultra_rare_etho",
+        "when": "hctcg_hermit_default_ultra_rare_etho",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/ultra_rare/etho"
+          "model": "hctcg:item/map/hermit/default/ultra_rare/etho"
         }
       },
       {
-        "when": "hctcg_hermit_ultra_rare_tfc",
+        "when": "hctcg_hermit_default_ultra_rare_tfc",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/ultra_rare/tfc"
+          "model": "hctcg:item/map/hermit/default/ultra_rare/tfc"
         }
       },
       {
-        "when": "hctcg_hermit_ultra_rare_vintagebeef",
+        "when": "hctcg_hermit_default_ultra_rare_vintagebeef",
         "model": {
           "type": "minecraft:model",
-          "model": "hctcg:item/map/hermit/ultra_rare/vintagebeef"
+          "model": "hctcg:item/map/hermit/default/ultra_rare/vintagebeef"
         }
       },
       {
@@ -1103,10 +1103,45 @@
         }
       },
       {
+        "when": "hctcg_hermit_ae_common_dwarf_impulse",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hctcg:item/map/hermit/alter_ego/common/dwarf_impulse"
+        }
+      },
+      {
         "when": "hctcg_hermit_ae_common_evil_jevin",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/alter_ego/common/evil_jevin"
+        }
+      },
+      {
+        "when": "hctcg_hermit_ae_common_frenchralis",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hctcg:item/map/hermit/alter_ego/common/frenchralis"
+        }
+      },
+      {
+        "when": "hctcg_hermit_ae_common_grand_architect",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hctcg:item/map/hermit/alter_ego/common/grand_architect"
+        }
+      },
+      {
+        "when": "hctcg_hermit_ae_common_horsehead_hypno",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hctcg:item/map/hermit/alter_ego/common/horsehead_hypno"
+        }
+      },
+      {
+        "when": "hctcg_hermit_ae_common_original_xb",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hctcg:item/map/hermit/alter_ego/common/original_xb"
         }
       },
       {
@@ -1124,10 +1159,45 @@
         }
       },
       {
+        "when": "hctcg_hermit_ae_common_shade_e_e",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hctcg:item/map/hermit/alter_ego/common/shade_e_e"
+        }
+      },
+      {
+        "when": "hctcg_hermit_ae_common_spooky_stress",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hctcg:item/map/hermit/alter_ego/common/spooky_stress"
+        }
+      },
+      {
+        "when": "hctcg_hermit_ae_common_steampunk_tango",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hctcg:item/map/hermit/alter_ego/common/steampunk_tango"
+        }
+      },
+      {
         "when": "hctcg_hermit_ae_common_worm_man",
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/alter_ego/common/worm_man"
+        }
+      },
+      {
+        "when": "hctcg_hermit_ae_rare_5am_pearl",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hctcg:item/map/hermit/alter_ego/rare/5am_pearl"
+        }
+      },
+      {
+        "when": "hctcg_hermit_ae_rare_boomer_bdubs",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hctcg:item/map/hermit/alter_ego/rare/boomer_bdubs"
         }
       },
       {
@@ -1184,6 +1254,13 @@
         "model": {
           "type": "minecraft:model",
           "model": "hctcg:item/map/hermit/alter_ego/rare/llamadad"
+        }
+      },
+      {
+        "when": "hctcg_hermit_ae_rare_overseer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "hctcg:item/map/hermit/alter_ego/rare/overseer"
         }
       },
       {
