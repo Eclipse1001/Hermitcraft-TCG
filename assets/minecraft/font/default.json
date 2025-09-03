@@ -1,0 +1,103 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "hctcg:misc/blank.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uef00"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "hctcg:misc/balanced.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uef01"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "hctcg:misc/builder.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uef02"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "hctcg:misc/explorer.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uef03"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "hctcg:misc/farm.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uef04"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "hctcg:misc/miner.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uef05"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "hctcg:misc/prankster.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uef06"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "hctcg:misc/pvp.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uef07"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "hctcg:misc/redstone.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uef08"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "hctcg:misc/speedrunner.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uef09"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "hctcg:misc/terraform.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\uef10"
+			]
+		}
+	]
+}
