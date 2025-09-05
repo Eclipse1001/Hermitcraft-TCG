@@ -5,7 +5,7 @@
       "minecraft:bundle"
     ],
     [
-      "minecraft:white_dye"
+      "minecraft:gray_dye"
     ],
     [
       "minecraft:cyan_dye"
@@ -19,7 +19,7 @@
     "components": {
       "minecraft:custom_model_data": {
         "strings": [
-          "deck"
+          "hctcg_deck"
         ]
       },
       "minecraft:custom_name": {

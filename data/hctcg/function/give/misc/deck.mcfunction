@@ -1,0 +1,1 @@
+give @s minecraft:bundle[minecraft:custom_model_data={strings:["hctcg_deck"]},minecraft:custom_name={text:"Hermitcraft",extra:[{text:" TC",color:"dark_aqua",underlined:0b},{text:"G",color:"dark_green",underlined:0b}],color:"dark_gray",bold:1b,italic:0b,underlined:0b}]
