@@ -1,0 +1,1 @@
+give @s filled_map[map_id=100028,custom_model_data={strings:["hctcg_health_60"]},custom_name=[{"bold":true,"color":"red","italic":false,"text":"60 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1

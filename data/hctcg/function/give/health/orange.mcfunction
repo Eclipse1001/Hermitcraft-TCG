@@ -1,10 +1,10 @@
-give @s filled_map[map_id=100041,custom_model_data={strings:["hctcg_health_190"]},custom_name=[{"bold":true,"color":"gold","italic":false,"text":"190 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
-give @s filled_map[map_id=100040,custom_model_data={strings:["hctcg_health_180"]},custom_name=[{"bold":true,"color":"gold","italic":false,"text":"180 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
-give @s filled_map[map_id=100039,custom_model_data={strings:["hctcg_health_170"]},custom_name=[{"bold":true,"color":"gold","italic":false,"text":"170 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
-give @s filled_map[map_id=100038,custom_model_data={strings:["hctcg_health_160"]},custom_name=[{"bold":true,"color":"gold","italic":false,"text":"160 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
-give @s filled_map[map_id=100037,custom_model_data={strings:["hctcg_health_150"]},custom_name=[{"bold":true,"color":"gold","italic":false,"text":"150 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
-give @s filled_map[map_id=100036,custom_model_data={strings:["hctcg_health_140"]},custom_name=[{"bold":true,"color":"gold","italic":false,"text":"140 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
-give @s filled_map[map_id=100035,custom_model_data={strings:["hctcg_health_130"]},custom_name=[{"bold":true,"color":"gold","italic":false,"text":"130 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
-give @s filled_map[map_id=100034,custom_model_data={strings:["hctcg_health_120"]},custom_name=[{"bold":true,"color":"gold","italic":false,"text":"120 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
-give @s filled_map[map_id=100033,custom_model_data={strings:["hctcg_health_110"]},custom_name=[{"bold":true,"color":"gold","italic":false,"text":"110 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
-give @s filled_map[map_id=100032,custom_model_data={strings:["hctcg_health_100"]},custom_name=[{"bold":true,"color":"gold","italic":false,"text":"100 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
+function hctcg:give/health/orange/190
+function hctcg:give/health/orange/180
+function hctcg:give/health/orange/170
+function hctcg:give/health/orange/160
+function hctcg:give/health/orange/150
+function hctcg:give/health/orange/140
+function hctcg:give/health/orange/130
+function hctcg:give/health/orange/120
+function hctcg:give/health/orange/110
+function hctcg:give/health/orange/100

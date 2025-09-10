@@ -1,9 +1,9 @@
-give @s filled_map[map_id=100031,custom_model_data={strings:["hctcg_health_90"]},custom_name=[{"bold":true,"color":"red","italic":false,"text":"90 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
-give @s filled_map[map_id=100030,custom_model_data={strings:["hctcg_health_80"]},custom_name=[{"bold":true,"color":"red","italic":false,"text":"80 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
-give @s filled_map[map_id=100029,custom_model_data={strings:["hctcg_health_70"]},custom_name=[{"bold":true,"color":"red","italic":false,"text":"70 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
-give @s filled_map[map_id=100028,custom_model_data={strings:["hctcg_health_60"]},custom_name=[{"bold":true,"color":"red","italic":false,"text":"60 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
-give @s filled_map[map_id=100027,custom_model_data={strings:["hctcg_health_50"]},custom_name=[{"bold":true,"color":"red","italic":false,"text":"50 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
-give @s filled_map[map_id=100026,custom_model_data={strings:["hctcg_health_40"]},custom_name=[{"bold":true,"color":"red","italic":false,"text":"40 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
-give @s filled_map[map_id=100025,custom_model_data={strings:["hctcg_health_30"]},custom_name=[{"bold":true,"color":"red","italic":false,"text":"30 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
-give @s filled_map[map_id=100024,custom_model_data={strings:["hctcg_health_20"]},custom_name=[{"bold":true,"color":"red","italic":false,"text":"20 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
-give @s filled_map[map_id=100023,custom_model_data={strings:["hctcg_health_10"]},custom_name=[{"bold":true,"color":"red","italic":false,"text":"10 Health"}],lore=[[{"color":"dark_gray","italic":false,"text":"⏺ Default Card ⏺"}]],tooltip_display={hidden_components:["map_id"]}] 1
+function hctcg:give/health/red/90
+function hctcg:give/health/red/80
+function hctcg:give/health/red/70
+function hctcg:give/health/red/60
+function hctcg:give/health/red/50
+function hctcg:give/health/red/40
+function hctcg:give/health/red/30
+function hctcg:give/health/red/20
+function hctcg:give/health/red/10
