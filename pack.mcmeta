@@ -1,6 +1,9 @@
 {
-    "pack": {
+  "pack": {
+        "min_format": [88,0],
+        "max_format": [99,0],
         "pack_format": 71,
-        "description": "HCTCG made by VintageBeef presented to you in datapack form by DrMine1212"
-    }
+        "supported_formats": {"min_inclusive": 71, "max_inclusive": 88},
+    "description": "HermitCraft TCG made by VintageBeef recreated by Eclipse37_"
+  }
 }
